@@ -1,0 +1,38 @@
+  .stark-bg{
+    background: linear-gradient(to right, rgb(30, 2, 73) , rgb(51, 13, 190));
+  }
+
+#basic-nav-dropdown{
+  color:white;
+}
+.logo-font{
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+.navbar-toggler-icon{
+  background-color: #e2c107 !important;
+}
+
+/* loader css */
+
+.btn-cancel{
+  background: linear-gradient(to right, rgb(30, 2, 73) , rgb(51, 13, 190));
+}
+.btn-confirm{
+  background: linear-gradient(to right, rgb(17, 202, 10) , rgb(55, 216, 63),rgb(29, 201, 172));
+}
+.txt-mail{
+  font-size:small;
+  color: #2e0470 !important;
+}
+/* password show hide icon css */
+.password-input {
+  position: relative;
+}
+
+.password-toggle {
+  position: absolute;
+  top: 50%;
+  right: 10px; /* Adjust as needed */
+  transform: translateY(-50%);
+  cursor: pointer;
+}
